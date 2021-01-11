@@ -1,8 +1,8 @@
 {
   "prefer_related_applications":false,
-  "name": "pwaApp",
-  "short_name": "pwaApp",
-  "description": "pwaApp",
+  "name": "pacd-client",
+  "short_name": "pacd-client",
+  "description": "pacd-client",
   "lang": "en-US",
   "start_url": "/",
   "display": "standalone",
