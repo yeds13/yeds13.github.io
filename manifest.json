@@ -1,8 +1,8 @@
 {
   "prefer_related_applications":false,
-  "name": "pacd-client",
-  "short_name": "pacd-client",
-  "description": "pacd-client",
+  "name": "PACD Online Portal",
+  "short_name": "PACD Online Portal",
+  "description": "PACD Online Portal",
   "lang": "en-US",
   "start_url": "/",
   "display": "standalone",
