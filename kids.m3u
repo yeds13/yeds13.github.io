@@ -49,16 +49,14 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 
 
-#EXTINF:-1,RO: BOOMERANG
-http://televiziune.live/deseneanimate/live1/a2e0f744c28929973e4365b7fdfa0865/6.ts
-#EXTINF:-1,RO: Nickelodeon
-http://televiziune.live/deseneanimate/live1/a2e0f744c28929973e4365b7fdfa0865/8.ts
-#EXTINF:-1,RO: DISNEY JUNIOR
-http://televiziune.live/deseneanimate/live1/a2e0f744c28929973e4365b7fdfa0865/9.ts
-#EXTINF:-1,RO: DISNEY CHANNEL
-http://televiziune.live/deseneanimate/live1/a2e0f744c28929973e4365b7fdfa0865/10.ts
-#EXTINF:-1,RO: CARTOON NETWORK
-http://televiziune.live/deseneanimate/live1/a2e0f744c28929973e4365b7fdfa0865/11.ts
+#EXTINF:-1,USA: CARTOON NETWORK 
+http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8 
+#EXTINF:-1,INT: BABY FIRST 
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8 
+#EXTINF:-1,ME: BOOMARANG 
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8 
+#EXTINF:-1,INT: CARTOON NETWORK HD 
+https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8 
 
 
 
