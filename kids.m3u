@@ -51,13 +51,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 
 
-#EXTINF:-1 group-title="HPlus", Boomerang
-https://delivery.macan.live/stream/boomerang/index.m3u8?token=BnCg4oKx&v=20200202 
-#EXTINF:-1 group-title="HPlus", Cartoon Network HD 2
-https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
-#EXTINF:-1 group-title="HPlus", Disney Channel
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Infantil",DISNEY JR
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1068.m3u8
 
 #EXTINF:-1,US | Discovery HD
 http://mail.vipmek.com:8800/565656/565656/35690
