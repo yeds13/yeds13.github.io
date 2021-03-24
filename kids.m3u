@@ -47,14 +47,19 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 #EXTINF:-1,DISNEYXD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
-#EXTINF:-1 tvg-logo="Boomerang.png",Boomerang
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="CartoonNetwork.png",Cartoon Network
-http://hls01-09.az.myvideo.az/hls-live/livepkgr/cartoon/cartoon/cartoon.m3u8?simpletvipadresleri
-#EXTINF:-1 tvg-logo="CartoonNetwork.png",Cartoon Network
-http://113.160.49.34/lives/origin03/cartoonsd.isml/cartoonsd.m3u8 
-#EXTINF:-1 tvg-logo="Nickelodeon.png",Nickelodeon
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_NICKELODEON/variant.m3u8
+
+#EXTINF:0 tvg-logo="http://i0.kym-cdn.com/photos/images/original/001/099/188/818" group-title="",Nickelodeon
+
+http://5.9.22.12:8088/live/tvnickaovivo/playlist.m3u8?id=22597&wowzasessionid=562733252&pk=2460725de082d4f3ea4494f737dd79c0f42263553fd51a3e15c5d19b43504193
+
+
+
+#EXTINF:0 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/cartoon-network-post1.jpg" group-title="",Cartoon Network
+
+http://165.227.180.24/cartoonnetwork/tracks-v1a1/index.m3u8?pxAuth=WXpTU1mTdzwuH0Y6QGa6PIVuMcaxC9ow
+
+
+
 #EXTINF:-1,US | Discovery HD
 http://mail.vipmek.com:8800/565656/565656/35690
 #EXTINF:-1,US | Discovery HD Showcase
