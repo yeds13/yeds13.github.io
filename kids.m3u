@@ -47,6 +47,14 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 #EXTINF:-1,DISNEYXD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+#EXTINF:-1 tvg-logo="Boomerang.png",Boomerang
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="CartoonNetwork.png",Cartoon Network
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/cartoon/cartoon/cartoon.m3u8?simpletvipadresleri
+#EXTINF:-1 tvg-logo="CartoonNetwork.png",Cartoon Network
+http://113.160.49.34/lives/origin03/cartoonsd.isml/cartoonsd.m3u8 
+#EXTINF:-1 tvg-logo="Nickelodeon.png",Nickelodeon
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NICKELODEON/variant.m3u8
 #EXTINF:-1,US | Discovery HD
 http://mail.vipmek.com:8800/565656/565656/35690
 #EXTINF:-1,US | Discovery HD Showcase
