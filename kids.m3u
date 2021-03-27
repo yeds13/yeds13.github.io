@@ -29,18 +29,7 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/7OsxUER.png" group-title="",UNTV
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/master.m3u8
-#EXTINF:-1,US | Disney Junior
-http://mail.vipmek.com:8800/565656/565656/35730
-#EXTINF:-1,US | Cartoon Network HD
-http://mail.vipmek.com:8800/565656/565656/35731
-#EXTINF:-1,US | Boomerang
-http://mail.vipmek.com:8800/565656/565656/35732
-#EXTINF:-1,US | NICKELODEN HD
-http://mail.vipmek.com:8800/565656/565656/35733
-#EXTINF:-1,US | Nicktoons HD
-http://mail.vipmek.com:8800/565656/565656/35734
-#EXTINF:-1,US | Disney XD HD
-http://mail.vipmek.com:8800/565656/565656/35735
+
 #EXTINF:-1,DISNEY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
 #EXTINF:-1,DISNEYJR
@@ -60,36 +49,16 @@ http://ajstreamz.xyz:8080/Constance/constance/151056?checkedby:iptvcat.com
 
 
 #EXTINF:-1,US | Discovery HD
-http://mail.vipmek.com:8800/565656/565656/35690
-#EXTINF:-1,US | Discovery HD Showcase
-http://mail.vipmek.com:8800/565656/565656/35691
+http://37723998.to:2052/dale1/1234/20815?checkedby:iptvcat.com
 #EXTINF:-1,US | Discovery Science HD
-http://mail.vipmek.com:8800/565656/565656/35692
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770?checkedby:iptvcat.com
 #EXTINF:-1,US | Animal Planet HD
-http://mail.vipmek.com:8800/565656/565656/35693
-#EXTINF:-1,US | Outdoor Channel HD
-http://mail.vipmek.com:8800/565656/565656/35694
+http://37723998.to:2052/dale1/1234/42985?checkedby:iptvcat.com
+
 #EXTINF:-1,US | ESPN HD
-http://mail.vipmek.com:8800/565656/565656/35699
-#EXTINF:-1,US | TSN 1 HD
-http://mail.vipmek.com:8800/565656/565656/35706
-#EXTINF:-1,US | TSN 2 HD
-http://mail.vipmek.com:8800/565656/565656/35707
-#EXTINF:-1,US | TSN 3 HD
-http://mail.vipmek.com:8800/565656/565656/35708
-#EXTINF:-1,US | TSN 4 HD
-http://mail.vipmek.com:8800/565656/565656/35709
-#EXTINF:-1,US | TSN 5 HD
-http://mail.vipmek.com:8800/565656/565656/35710
-#EXTINF:-1,US | Tennis HD
-http://mail.vipmek.com:8800/565656/565656/35711
-#EXTINF:-1,US | NFL Network HD
-http://mail.vipmek.com:8800/565656/565656/35714
-#EXTINF:-1,US | NFL RED ZONE(Match Time)
-http://mail.vipmek.com:8800/565656/565656/35715
-#EXTINF:-1,US | MLB Network HD
-http://mail.vipmek.com:8800/565656/565656/35716
+http://37723998.to:2052/dale1/1234/172142?checkedby:iptvcat.com
+
 #EXTINF:-1,US | NBA TV
-http://mail.vipmek.com:8800/565656/565656/35717
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600?checkedby:iptvcat.com
 #EXTINF:-1,US | CNBC
-http://mail.vipmek.com:8800/565656/565656/35738
+http://37723998.to:2052/dale1/1234/20753?checkedby:iptvcat.com
