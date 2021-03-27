@@ -45,6 +45,8 @@ http://mail.vipmek.com:8800/565656/565656/35735
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
 #EXTINF:-1,DISNEYJR
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:-1 tvg-id="" group-title="Infantil",Disney JR US-WEST
+http://ajstreamz.xyz:8080/Constance/constance/151062?checkedby:iptvcat.com
 #EXTINF:-1,DISNEYXD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 
@@ -52,8 +54,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="" group-title="Infantil",CARTOON NETWORK HD
 http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" group-title="Infantil",Disney Jr US
-http://ajstreamz.xyz:8080/Constance/constance/151062?checkedby:iptvcat.com
+
 
 #EXTINF:-1,US | Discovery HD
 http://mail.vipmek.com:8800/565656/565656/35690
