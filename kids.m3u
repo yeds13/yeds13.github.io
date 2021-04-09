@@ -31,22 +31,17 @@ http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/master.m3u8
 
 #EXTINF:-1,DISNEY
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+http://listamy.com:8080/Berto/Berto/328582?checkedby:iptvcat.com
 #EXTINF:-1,DISNEYJR
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+http://listamy.com:8080/Berto/Berto/328581?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" group-title="Infantil",Disney JR US-WEST
 http://ajstreamz.xyz:8080/Constance/constance/151062?checkedby:iptvcat.com
 #EXTINF:-1,DISNEYXD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+http://listamy.com:8080/Berto/Berto/328580?checkedby:iptvcat.com
 
-#EXTINF:-1,DISNEY2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512?checkedby:iptvcat.com
+#EXTINF:-1,DISNEYXD2
+http://listamy.com:8080/cuco/cuco/328585?checkedby:iptvcat.com
 
-#EXTINF:-1,DISNEYJR2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513?checkedby:iptvcat.com
-
-#EXTINF:-1,DISNEYXD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" group-title="Infantil",CARTOON NETWORK HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683?checkedby:iptvcat.com
