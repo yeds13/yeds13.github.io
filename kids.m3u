@@ -32,15 +32,21 @@ https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/master.m3u8
 
 #EXTINF:-1,DISNEY
 http://rv.flysat.live:80/307242117531/307242117531/81029?checkedby:iptvcat.com
+#EXTINF:-1,DISNEY EAST
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/65087?checkedby:iptvcat.com
 #EXTINF:-1,DISNEYJR
 http://rv.flysat.live:80/307242117531/307242117531/81030?checkedby:iptvcat.com
+#EXTINF:-1,DISNEYJR 2
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/65090?checkedby:iptvcat.com
+#EXTINF:-1,DISNEYJR EAST
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/65089?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" group-title="Infantil",Disney JR US-WEST
-http://ajstreamz.xyz:8080/Constance/constance/151062?checkedby:iptvcat.com
-#EXTINF:-1,DISNEYXD
-http://listamy.com:8080/Berto/Berto/328240?checkedby:iptvcat.com
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/65091?checkedby:iptvcat.com
+#EXTINF:-1,DISNEYXD EAST
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/65093?checkedby:iptvcat.com
 
 #EXTINF:-1,DISNEYXD2
-http://listamy.com:8080/cuco/cuco/328585?checkedby:iptvcat.com
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/20585?checkedby:iptvcat.com
 
 
 #EXTINF:-1 tvg-id="" group-title="Infantil",CARTOON NETWORK HD
