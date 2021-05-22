@@ -31,27 +31,27 @@ http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/master.m3u8
 
 #EXTINF:-1,DISNEY
-https://iptvcat.com/my_list/s/12bfe99d8381f04369ad35e96d4acbc9.m3u8
+https://iptvcat.com/my_list/s/d00b23db96bca95e3d9b73987c379229.m3u8
 #EXTINF:-1,DISNEY EAST
-https://iptvcat.com/my_list/s/813d70e331c25e68691c7f3c2f3fa8b2.m3u8
+https://iptvcat.com/my_list/s/e772017addab5c2777b814346f42abc6.m3u8
 #EXTINF:-1,DISNEYJR
-https://iptvcat.com/my_list/s/4e1c9479011c12f597600fee421e98c6.m3u8
+https://iptvcat.com/my_list/s/e82cb47b1b8c79ff6eef935ca5c15fc1.m3u8
 #EXTINF:-1,DISNEYJR 2
-https://iptvcat.com/my_list/s/190fa07e855fc5e0b6d058b985cd4a37.m3u8
+https://iptvcat.com/my_list/s/a3d1ccb8a5c6d3e8d6638fbc5de61f1c.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Infantil",CARTOON NETWORK HD
-https://iptvcat.com/my_list/s/619dfa25528806093d3c57d032d820cd.m3u8
+https://iptvcat.com/my_list/s/e14722f9eb6e0e644833953c37d989f8.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Infantil",CARTOON NETWORK HD 2
-https://iptvcat.com/my_list/s/c335cbdeeecf1c4859a222cd73e1994b.m3u8
+https://iptvcat.com/my_list/s/e53d3217eaba3d84422d1de70a09d019.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Infantil",BOOMERANG HD
-https://iptvcat.com/my_list/s/48dcac56278b39e3ed6c79c5c5643617.m3u8
+https://iptvcat.com/my_list/s/0dcc9ba4a91648174ca581d84bc9a3de.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Infantil",BOOMERANG HD 2
-https://iptvcat.com/my_list/s/dd610f5ced813ae6b253523c905c2332.m3u8
+https://iptvcat.com/my_list/s/4d20ffb9031bd6fddbd4728aba24091c.m3u8
 
 
 
@@ -69,13 +69,20 @@ https://iptvcat.com/my_list/s/c4171273f755b24ae8727e41f835a784.m3u8
 https://iptvcat.com/my_list/s/48a21eb16c918f8471c11c076304cdff.m3u8
 
 #EXTINF:-1,US | NBA TV
-https://iptvcat.com/my_list/s/6b9f9ba5f43915fc192b3cdb2d9a2b70.m3u8
+https://iptvcat.com/my_list/s/27e05ea3e35e6751f3739099718d5e9f.m3u8
 
 #EXTINF:-1,US | NBA TV 2
-https://iptvcat.com/my_list/s/27e05ea3e35e6751f3739099718d5e9f.m3u8
+https://iptvcat.com/my_list/s/6b9f9ba5f43915fc192b3cdb2d9a2b70.m3u8
 
 #EXTINF:-1,US | NBA TV 3
 https://iptvcat.com/my_list/s/f16a7922e1fabaa679b8a24b2d83678c.m3u8
+
+#EXTINF:-1,US | NBA TV 4
+https://iptvcat.com/my_list/s/71e9e5e99cba2955569bf71b791db817.m3u8
+
+#EXTINF:-1,US | NBA TV 5
+https://iptvcat.com/my_list/s/effafdd526b3bebb6ad7445ee87eafd2.m3u8
+
 
 #EXTINF:-1,US | CNBC
 http://37723998.to:2052/dale1/1234/20753?checkedby:iptvcat.com
