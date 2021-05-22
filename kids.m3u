@@ -31,26 +31,27 @@ http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/master.m3u8
 
 #EXTINF:-1,DISNEY
-http://rv.flysat.live:80/307242117531/307242117531/81029?checkedby:iptvcat.com
+https://iptvcat.com/my_list/s/12bfe99d8381f04369ad35e96d4acbc9.m3u8
 #EXTINF:-1,DISNEY EAST
-http://tvmedia2.com:8080/andrea/andrea/164701.m3u8?checkedby:iptvcat.com
+https://iptvcat.com/my_list/s/813d70e331c25e68691c7f3c2f3fa8b2.m3u8
 #EXTINF:-1,DISNEYJR
-http://rv.flysat.live:80/307242117531/307242117531/81030?checkedby:iptvcat.com
+https://iptvcat.com/my_list/s/4e1c9479011c12f597600fee421e98c6.m3u8
 #EXTINF:-1,DISNEYJR 2
-http://tvmedia2.com:8080/andrea/andrea/164700.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1,DISNEYXD
-http://tvmedia2.com:8080/andrea/andrea/164698.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1,DISNEYXD2
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/20585?checkedby:iptvcat.com
+https://iptvcat.com/my_list/s/190fa07e855fc5e0b6d058b985cd4a37.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Infantil",CARTOON NETWORK HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683?checkedby:iptvcat.com
+https://iptvcat.com/my_list/s/619dfa25528806093d3c57d032d820cd.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Infantil",CARTOON NETWORK HD 2
+https://iptvcat.com/my_list/s/c335cbdeeecf1c4859a222cd73e1994b.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Infantil",BOOMERANG HD
-http://ajstreamz.xyz:8080/Constance/constance/151056?checkedby:iptvcat.com
+https://iptvcat.com/my_list/s/48dcac56278b39e3ed6c79c5c5643617.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Infantil",BOOMERANG HD 2
+https://iptvcat.com/my_list/s/dd610f5ced813ae6b253523c905c2332.m3u8
 
 
 
@@ -62,9 +63,19 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://37723998.to:2052/dale1/1234/42985?checkedby:iptvcat.com
 
 #EXTINF:-1,US | ESPN HD
-http://37723998.to:2052/dale1/1234/172142?checkedby:iptvcat.com
+https://iptvcat.com/my_list/s/c4171273f755b24ae8727e41f835a784.m3u8
+
+#EXTINF:-1,US | ESPN HD 2
+https://iptvcat.com/my_list/s/48a21eb16c918f8471c11c076304cdff.m3u8
 
 #EXTINF:-1,US | NBA TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600?checkedby:iptvcat.com
+https://iptvcat.com/my_list/s/6b9f9ba5f43915fc192b3cdb2d9a2b70.m3u8
+
+#EXTINF:-1,US | NBA TV 2
+https://iptvcat.com/my_list/s/27e05ea3e35e6751f3739099718d5e9f.m3u8
+
+#EXTINF:-1,US | NBA TV 3
+https://iptvcat.com/my_list/s/f16a7922e1fabaa679b8a24b2d83678c.m3u8
+
 #EXTINF:-1,US | CNBC
 http://37723998.to:2052/dale1/1234/20753?checkedby:iptvcat.com
