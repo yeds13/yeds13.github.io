@@ -1,4 +1,50 @@
 #EXTM3U
+
+#EXTINF:-1,DISNEY
+https://iptvcat.com/my_list/s/d00b23db96bca95e3d9b73987c379229.m3u8
+#EXTINF:-1,DISNEY EAST
+https://iptvcat.com/my_list/s/e772017addab5c2777b814346f42abc6.m3u8
+#EXTINF:-1,DISNEYJR
+https://iptvcat.com/my_list/s/e82cb47b1b8c79ff6eef935ca5c15fc1.m3u8
+#EXTINF:-1,DISNEYJR 2
+https://iptvcat.com/my_list/s/a3d1ccb8a5c6d3e8d6638fbc5de61f1c.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Infantil",CARTOON NETWORK HD
+https://iptvcat.com/my_list/s/e14722f9eb6e0e644833953c37d989f8.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Infantil",CARTOON NETWORK HD 2
+https://iptvcat.com/my_list/s/e53d3217eaba3d84422d1de70a09d019.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Infantil",BOOMERANG HD
+https://iptvcat.com/my_list/s/0dcc9ba4a91648174ca581d84bc9a3de.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Infantil",BOOMERANG HD 2
+https://iptvcat.com/my_list/s/4d20ffb9031bd6fddbd4728aba24091c.m3u8
+
+
+#EXTINF:-1,US | ESPN HD
+https://iptvcat.com/my_list/s/c4171273f755b24ae8727e41f835a784.m3u8
+
+#EXTINF:-1,US | ESPN HD 2
+https://iptvcat.com/my_list/s/48a21eb16c918f8471c11c076304cdff.m3u8
+
+#EXTINF:-1,US | NBA TV
+https://iptvcat.com/my_list/s/27e05ea3e35e6751f3739099718d5e9f.m3u8
+
+#EXTINF:-1,US | NBA TV 2
+https://iptvcat.com/my_list/s/6b9f9ba5f43915fc192b3cdb2d9a2b70.m3u8
+
+#EXTINF:-1,US | NBA TV 3
+https://iptvcat.com/my_list/s/f16a7922e1fabaa679b8a24b2d83678c.m3u8
+
+#EXTINF:-1,US | NBA TV 4
+https://iptvcat.com/my_list/s/71e9e5e99cba2955569bf71b791db817.m3u8
+
+#EXTINF:-1,US | NBA TV 5
+https://iptvcat.com/my_list/s/effafdd526b3bebb6ad7445ee87eafd2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="Kids",ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/PwUFKik.jpg" group-title="",Beam TV
@@ -30,28 +76,7 @@ http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/7OsxUER.png" group-title="",UNTV
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/master.m3u8
 
-#EXTINF:-1,DISNEY
-https://iptvcat.com/my_list/s/d00b23db96bca95e3d9b73987c379229.m3u8
-#EXTINF:-1,DISNEY EAST
-https://iptvcat.com/my_list/s/e772017addab5c2777b814346f42abc6.m3u8
-#EXTINF:-1,DISNEYJR
-https://iptvcat.com/my_list/s/e82cb47b1b8c79ff6eef935ca5c15fc1.m3u8
-#EXTINF:-1,DISNEYJR 2
-https://iptvcat.com/my_list/s/a3d1ccb8a5c6d3e8d6638fbc5de61f1c.m3u8
 
-
-#EXTINF:-1 tvg-id="" group-title="Infantil",CARTOON NETWORK HD
-https://iptvcat.com/my_list/s/e14722f9eb6e0e644833953c37d989f8.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Infantil",CARTOON NETWORK HD 2
-https://iptvcat.com/my_list/s/e53d3217eaba3d84422d1de70a09d019.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Infantil",BOOMERANG HD
-https://iptvcat.com/my_list/s/0dcc9ba4a91648174ca581d84bc9a3de.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="Infantil",BOOMERANG HD 2
-https://iptvcat.com/my_list/s/4d20ffb9031bd6fddbd4728aba24091c.m3u8
 
 
 
@@ -62,26 +87,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1,US | Animal Planet HD
 http://37723998.to:2052/dale1/1234/42985?checkedby:iptvcat.com
 
-#EXTINF:-1,US | ESPN HD
-https://iptvcat.com/my_list/s/c4171273f755b24ae8727e41f835a784.m3u8
 
-#EXTINF:-1,US | ESPN HD 2
-https://iptvcat.com/my_list/s/48a21eb16c918f8471c11c076304cdff.m3u8
-
-#EXTINF:-1,US | NBA TV
-https://iptvcat.com/my_list/s/27e05ea3e35e6751f3739099718d5e9f.m3u8
-
-#EXTINF:-1,US | NBA TV 2
-https://iptvcat.com/my_list/s/6b9f9ba5f43915fc192b3cdb2d9a2b70.m3u8
-
-#EXTINF:-1,US | NBA TV 3
-https://iptvcat.com/my_list/s/f16a7922e1fabaa679b8a24b2d83678c.m3u8
-
-#EXTINF:-1,US | NBA TV 4
-https://iptvcat.com/my_list/s/71e9e5e99cba2955569bf71b791db817.m3u8
-
-#EXTINF:-1,US | NBA TV 5
-https://iptvcat.com/my_list/s/effafdd526b3bebb6ad7445ee87eafd2.m3u8
 
 
 #EXTINF:-1,US | CNBC
