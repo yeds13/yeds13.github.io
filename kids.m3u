@@ -1,15 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,DISNEY
-https://iptvcat.com/my_list/s/6ccfd3fb02807a8a12b734654720aacb.m3u8
-#EXTINF:-1,DISNEY EAST
-https://iptvcat.com/my_list/s/148154072edffec3cb385d9dd9261307.m3u8
-#EXTINF:-1,DISNEYJR
-https://iptvcat.com/my_list/s/fef7ce5ba31bebcb7b9eda51a9f55b39.m3u8
-#EXTINF:-1,DISNEYJR 2
-https://iptvcat.com/my_list/s/190fa07e855fc5e0b6d058b985cd4a37.m3u8
-#EXTINF:-1,DISNEYJR 3
-https://iptvcat.com/my_list/s/d1b85dc3f46318ca9566f79c7117e4f9.m3u8
+#EXTINF:-1,DISNEY JR
+https://iptvcat.com/my_list/s/e29dc6eb9ff67c4d13ede4cec906914e.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Infantil",CARTOON NETWORK HD
 https://iptvcat.com/my_list/s/e14722f9eb6e0e644833953c37d989f8.m3u8
