@@ -1,26 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1,DISNEY JR
-https://iptvcat.com/my_list/s/eaf232efa1efc44fc20ff21640715d9b.m3u8
+https://iptvcat.com/my_list/s/f52725a54781c237386496bacd6089ab.m3u8
+
 
 #EXTINF:-1,DISNEY JR 2
-https://iptvcat.com/my_list/s/f52725a54781c237386496bacd6089ab.m3u8
+https://iptvcat.com/my_list/s/eaf232efa1efc44fc20ff21640715d9b.m3u8
 
 #EXTINF:-1,DISNEY Channel
 https://iptvcat.com/my_list/s/2088db6790322e7112ffd1175b7150f1.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Infantil",CARTOON NETWORK HD
-https://iptvcat.com/my_list/s/0189d6c58c28f87827463bf68108073a.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Infantil",CARTOON NETWORK HD 2
-https://iptvcat.com/my_list/s/0189d6c58c28f87827463bf68108073a.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Infantil",BOOMERANG HD
-https://iptvcat.com/my_list/s/87c901e16e7dee9ded134ce8f985ba75.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="Infantil",BOOMERANG HD 2
-https://iptvcat.com/my_list/s/87c901e16e7dee9ded134ce8f985ba75.m3u8
 
 
 #EXTINF:-1,US | ESPN HD
